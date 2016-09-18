@@ -28,6 +28,8 @@ A **market** is a group of buyers and sellers of a particular good or service.
 
 **Elastic demand** is when a given a change in price causes a proportionally greater change in the quantity demanded.
 
+**Unit elastic demand** is when a given change in price causes an exactly proportional change in the quantity demanded.
+
 **Inelastic demand** is when a given a change in price causes a proportionally lesser change in the quantity demanded.
 
 ### Supply
@@ -39,3 +41,9 @@ A **market** is a group of buyers and sellers of a particular good or service.
 - Number of suppliers
 - Technology
 - Climatic conditions
+
+
+### Elasticity
+Elasticity is the degree of repomsiveness in changes of one variable in relation to another.
+1. How essential the good is.
+2. The satisfactory of the substitute goods.
