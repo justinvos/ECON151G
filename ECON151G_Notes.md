@@ -113,3 +113,63 @@ The **determinants of elasticity** include:
 **Perfect elasticity** is when a given change in price causes an infinite change in the quantity demanded ($P_{\epsilon d}=\infty$).
 
 **Cross elasticity of demand** is a measure of the responsiveness of quantity demanded to a given change in the price of another good. Whether the elasticity is positive, negative or zero depends on if the other good is a substitute, complement or has no relation, respectively.
+
+## Measuring a Nation's income
+
+**Gross domestic product** (GDP) is the total market value of all final goods and services produced within a country in a given period of time. $\text{GDP}=Y=C+I+G+NX$
+
+**Consumption** ($C$) is the spending by households on goods and services, with the exception of purchases of new housing.
+
+**Investment** ($I$) is the spending on capital equiptment, inventories and structures, including new housing.
+
+**Government purchases** ($G$) is the spending on goods and services by local, state and federal governments.
+
+**Net exports** ($NX$) is the net
+
+**Gross National Product** (GNP) tracks down total income of all citizens of a country.
+
+**Net Foreign Income** (NFI) is another measure of income.
+
+**Gross National Disposable Income** $YD=Y+\text{NFI}$
+
+**Nominal GDP** values the production of goods and services at current prices.
+
+**Real GDP** values the production of goods and services at constant prices.
+
+The **GDP deflator** adjusts between Nominal GDP and Real GDP. $\text{GDP deflator}=100\times\large\frac{\text{GDP}_\text{Nominal}}{\text{GDP}_\text{Real}}$
+
+Higher GDP per person indicates a higher standard of living.
+
+However, some things that are not included in GDP are:
+* The value of leisure
+* The value of a clean Environment
+* The value of all activities that take place outside of markets
+
+### Measuring the Cost of Living
+**Inflation** is the situation in which the economy's overall price level is rising.
+
+The **inflation rate** is the percentage change in the price level from the previous period.
+
+The **consumers price index** (CPI) is a measure of the overall cost of goods and services bought by a typical household.
+
+Statistics New Zealand calculates the consumers price index each month using data on over 700 goods and services and the following steps:
+1. Determine what prices are most important to the typical consumer.
+2. Find the prices of each of the goods and services in the basket for each point in time.
+3. Use the data on prices to calculate the cost of the basket of goods and services at different times.
+4. Choose a base period and compute the index. $\text{CPI}=100\times\large\frac{\text{Price of goods and services in current year}}{\text{Price of goods and services in base year}}$
+5. Calculate the inflation rate. $\text{Inflation rate}=\large\frac{CPI_\text{Year 2}-CPI_\text{Year 1}}{CPI_\text{Year 1}}$
+
+Problems in measuring the cost of living:
+* Substitution bias
+* Introduction of new goods
+* Unmeasured quality changes
+
+A **price index** is used to correct for the effects of inflation when comparing dollar figures from different times. $\text{Amount in today's dollars}=\text{Amount in Year x dollars}\large\frac{\text{Price level today}}{\text{Price level in Year x}}$
+
+When some dollar amount is automatically corrected for inflation by law or contract, the amount is said to be **indexed** for inflation.
+
+The **cost of living allowance** (COLA) is a contract that automatically raises the wage when the consumer price index rises.
+
+The **nominal interest rate** is the interest rate usually reported and not corrected for inflation. Quoted bank rates are nominal.
+
+The **real interest rate** is the nominal interest rate that is corrected for the effects of inflation. $\text{Real interest rate}=\text{Nominal interest rate}-\text{Inflation}$
