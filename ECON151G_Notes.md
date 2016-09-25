@@ -124,7 +124,7 @@ The **determinants of elasticity** include:
 
 **Government purchases** ($G$) is the spending on goods and services by local, state and federal governments.
 
-**Net exports** ($NX$) is the net
+**Net exports** ($NX$) is the exports minus the imports of a nation.
 
 **Gross National Product** (GNP) tracks down total income of all citizens of a country.
 
@@ -173,3 +173,64 @@ The **cost of living allowance** (COLA) is a contract that automatically raises 
 The **nominal interest rate** is the interest rate usually reported and not corrected for inflation. Quoted bank rates are nominal.
 
 The **real interest rate** is the nominal interest rate that is corrected for the effects of inflation. $\text{Real interest rate}=\text{Nominal interest rate}-\text{Inflation}$
+
+## Saving, Investment and the Financial System
+
+The **financial system** consists of the group of institutions in the economy that help to match one person's saving with another person's investment, moving the economy's scarce resources from savers to borrowers.
+
+Financial institutions can be grouped into two different categories:
+* Financial markets
+* Financial intermediaries
+
+**Financial markets** are the institutions through which savers can directly provide funds to borrowers. E.g. share market and bond market.
+
+**Financial intermediaries** are financial institutions through which savers can indirectly provide funds to borrowers. E.g. banks and managed funds
+
+A **bond** is a certificate of indebtedness that specifies obligation of the borrower to the holder of the bond.
+
+The **term** of a bond is the length of time until the bond matures.
+
+The **credit risk** is the probability that the borrower will fail to pay some of the interest or principal.
+
+The **tax treatment** is the way in which the tax laws treat the interest on the bond.
+
+A **share** represents a claim to partial ownership in a firm and therefore a claim to the profits the firm makes.
+
+**Equity financing** is the sale of shares to raise money.
+
+Compared to bonds, shares offer both higher risk and potentially higher returns.
+
+The information in stock tables normally consists of:
+* Price of the share
+* Volume (number of shares sold)
+* Dividends (profit paid to shareholders)
+* Price-earning ratio
+
+**Banks** take deposits from people who want to save and use the deposits to make loans to people who want to borrow.
+
+A **medium of exchange** is an item that people can easily use to enage in transactions.
+
+A **managed fund** is an institution that sells shares to the public and uses the procees to buy a portfolio of various types of stocks, bonds or both.
+
+Other financial institutions:
+* Credit unions
+* Pension funds
+* Insurance companies
+* Loan sharks
+
+**National saving** is the total disposable income in the economy that remains after paying for consumption and government purchases. $S=YD-C-G$
+
+**Private saving** is the amount of disposable income that households have left after paying their taxes and paying for their consumption. $\text{Private saving}=YD-T-C$
+
+**Public saving** is the amount of tax revenue that the government has left after paying for its spending.
+
+A **budget surplus** is when the government receives more money than it spends.
+
+A **budget deficit** is when the government spends more money than it receives in tax revenue.
+
+**Loanable funds** is all income that people have chosen to save and to lend out, rather than use for their own consumption.
+
+The three government policies that affect saving and investments are:
+* Changes in interest tax policies inversely shifts the supply curve
+* Changes in investment tax credit policies proportionally shifts the demand curve
+* Changes in government debt affects the supply of loanable funds.
