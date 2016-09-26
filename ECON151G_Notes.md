@@ -222,7 +222,9 @@ Other financial institutions:
 
 **Private saving** is the amount of disposable income that households have left after paying their taxes and paying for their consumption. $\text{Private saving}=YD-T-C$
 
-**Public saving** is the amount of tax revenue that the government has left after paying for its spending.
+**Public saving** is the amount of tax revenue that the government has left after paying for its spending. $\text{Public saving}=T-G$
+
+In a closed economy, savings must be equal to investment. $S=I$
 
 A **budget surplus** is when the government receives more money than it spends.
 
