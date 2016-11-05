@@ -2,7 +2,7 @@
 
 ## Preliminary Concepts
 
-**Economics** is the study of hwo individuals and societies choose to use the scarce resources that nature and previous generations have provided.
+**Economics** is the study of how individuals and societies choose to use the scarce resources that nature and previous generations have provided.
 
 **Scare resources**:
 - Labour (Skilled and unskilled)
@@ -164,7 +164,9 @@ Problems in measuring the cost of living:
 * Introduction of new goods
 * Unmeasured quality changes
 
-A **price index** is used to correct for the effects of inflation when comparing dollar figures from different times. $\text{Amount in today's dollars}=\text{Amount in Year x dollars}\large\frac{\text{Price level today}}{\text{Price level in Year x}}$
+The **GDP deflator** reflects the prices of all goods and services produced domestically and is calculated as follows $\text{GDP Deflator}=\frac{\text{Nominal GDP}}{\text{Real GDP}}\times 100$.
+
+A **price index** is used to correct for the effects of inflation when comparing dollar figures from different times. $\text{Amount in today's dollars}=\text{Amount in Year x dollars}\times\large\frac{\text{Price level today}}{\text{Price level in Year x}}$
 
 When some dollar amount is automatically corrected for inflation by law or contract, the amount is said to be **indexed** for inflation.
 
@@ -236,3 +238,82 @@ The three government policies that affect saving and investments are:
 * Changes in interest tax policies inversely shifts the supply curve
 * Changes in investment tax credit policies proportionally shifts the demand curve
 * Changes in government debt affects the supply of loanable funds.
+
+## Unemployment
+
+The **natural rate of unemployment** is unemployment that does not go away on its own even in the long run. It is the amount of unemployment the economy normally experiences.
+
+The **cyclical rate of unemployment** is the year-to-year fluctuations in unemployment around its natural rate. It is assocatiated with the short-term ups and downs of the business cycle.
+
+Unemployment is measured by Statistics NZ by placing each participant of a 30,000 person survey into either the category of employed, unemployed or not in the labour force.
+
+The **labour force** is the total number of workers, including btoh the employed and the unemployed.
+
+The **unemployment rate** is calculated as $\text{Unemployment rate}=\frac{\text{Number of unemployed}}{\text{Labour force}}\times 100$.
+
+The **labour force participation rate** is the percentage of the adult labour force that is in the labour force and is calculated as $\text{Labour force participation rate}=\frac{\text{Labour force}}{\text{Adult population}}\times 100$.
+
+**Discouraged workers** are people that would like to work but have given up looking for jobs, don't show up in unemployment statistics.
+
+**Frictional unemployment** refers to the unemployment that results from the time that is takes to match with jobs.
+
+**Structural unemployment** is the unemployment that results because the number of jobs available in some labour markets is insufficient to provide a job for everyone who wants one.
+
+**Job search** is the process by which workers find appropriate jobs given their tastes and skills.
+
+The **unemployment benefit** is a government program that ensures a minimum standard of living for workers when they become unemployed.
+
+A **union** is a worker association that bargains with employers over wages and working conditions.
+
+**Collective bargaining** is the process by which unions and firms agree on the terms of employment.
+
+A **strike** is the withdrawal of labour from the firm by the union. They are usually organised if the union and the firm cannot reach an agreement.
+
+**Efficiency wages** are above-equilibrium wages paid by firms in order to increase worker productivity.
+
+
+## The Monetary System and Inflation
+
+**Money** is the set of assets in an economy that people regularly use to buy goods and services from other people.
+
+A **medium of exchange** is an item that buyers give to sellers when they want to purchase goods and services. A medium of exchange is anything that is readily acceptable as payment.
+
+A **unit of account** is the measure people use to post prices and record debts.
+
+A **store of value** is an item that people can use to transfer purchasing power from the present to the future.
+
+**Liquidity** is the ease with which an asset can be converted into the economy's medium of exchange.
+
+**Commodity money** takes the form of a commodity with intrinsic value.
+
+**Fiat money** is used as money because of government decree and has no intrinsic value.
+
+The **Reserve Bank of New Zealand** (RBNZ) serves as the nation's central bank. Its main objective is to ensure price stability.
+
+The **official cash rate** (OCR) is the interest rate that banks earn on their deposit with the RBNZ as well as the interest that banks pay to borrow overnight cash from RBNZ. It is set every six weeks by the Governor of the RBNZ.
+
+The **settlement cash balance** is the deposit that banks keep with the RBNZ as cash reserves for settling their end of day net transaction.
+
+**Liquidity ratio** is the ratio of settlement cash to bank's assets that can be used as collateral.
+
+**Monetary policy** refers to the measures taken to manipulate money supply.
+
+**Reserves** are deposits that banks have received but have not loaned out.
+
+In a **fractional-reserve baking system**, banks hold a fraction of the money deposited as reserves and lend out the rest.
+
+The **reserve ratio** is the fraction of deposits that banks hold as reserves.
+
+The **money multiplier** is the amount of money the banking system generates with each dollar of reserves and is calculated as $\text{Money multiplier}=\frac{1}{\text{Reserve ratio}}$.
+
+**Open market operations** is where the RBNZ buys government bonds from or sells government bonds to the public.
+
+The **reserve requirement** is the percentage amount of a bank's total reserves that may not be loaned out.
+
+The **discount rate** is the interest rate the central bank charges banks for loans.
+
+**Transactions** involve transferring money from a bank to some other.
+* When the net transaction is negative, i.e. it receives less money than it pays, the bank would require more cash to settle the deficit.
+* When the net transaction is positive, i.e. it receives more money than it pays, the bank could lend the surplus amount to other banks which have net demand for cash or deposit them with the RBNZ.
+
+The RBNZ holds these surplus cash reserves of the trading banks on a special account and calls it the **settlement cash balance** (SCB). The SCB corresponds to a bank's reserve under a fractional-reserve system.
