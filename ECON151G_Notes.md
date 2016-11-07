@@ -317,3 +317,135 @@ The **discount rate** is the interest rate the central bank charges banks for lo
 * When the net transaction is positive, i.e. it receives more money than it pays, the bank could lend the surplus amount to other banks which have net demand for cash or deposit them with the RBNZ.
 
 The RBNZ holds these surplus cash reserves of the trading banks on a special account and calls it the **settlement cash balance** (SCB). The SCB corresponds to a bank's reserve under a fractional-reserve system.
+
+The OCR lies at the center of the band of the RBNZ interest rates for the SCB of registered banks as follows:
+* Trading banks can borrow at a margin of 0.25% above the OCR.
+* Trading banks can receive interest on their surplus reserves with the RBNZ at a margin 0.25% lower than the OCR.
+* In addition, RBNZ sets no limit on the amount of overnight cash demanded or supplied, at the rate of 0.25% above or below the OCR.
+
+The **optimal reserve ratio** (ORR) is the ratio of the SCB to demand deposits (DD) which can be compared with the reserve ratio that the commercial banks are required to hold in a fractional-reserve system.
+
+The **classical theory of inflation** is that the primary cause of inflation is the growth in the quantity of money.
+
+**Nominal variables** are variables measured in monetary units.
+
+**Real variables** are variables measured in physical units.
+
+**Monetary neutrality** is the irrelevance of monetary changes for real variables.
+
+The **velocity of money** refers to the speed at which the typical dollar coin travels around the economy from wallet to wallet and can be calculated $\text{Velocity}=\frac{\text{Price level}\times \text{Output quantity}}{\text{Money quantity}}$.
+
+The **quantity equation** is $\text{Money quantity}\times\text{Velocity}=\text{Price level}\times \text{Output quantity}$.
+
+The **inflation rate** can be defined by: $\text{Inflation rate}=\text{Growth of money supply}-\text{Growth of real GDP}$.
+
+**Hyperinflation** is inflation that exceeds 50% per month.
+
+An **inflation tax** is a tax on everyone that holds money as the government prints money.
+
+The **Fisher effect** refers to a one-to-one adjustment of the nominal interest rate to the inflation rate.
+
+**Shoe leather costs** are the resources wasted when inflation encourages people to reduce their money holdings.
+
+**Menu costs** are the costs of adjusting prices.
+
+## Open Economy Macroeconomics
+
+A **closed economy** is one that does not interact with other economies in the world \--- there are no exports, no imports and no capital flows.
+
+A **open economy** is one that interacts freely with other economies around the world.
+
+**Exports** are goods and services that are produced domestically and solf abroad.
+
+**Imports** are goods and services that are produced abroad and sold domestically.
+
+**Net exports** (NX) are the value of a nation's exports minus the value of its imports. Net exports are also called the **trade balance**.
+
+A **trade deficit** is a situation in which net exports are negative \--- exports are less than imports.
+
+A **trade surplus** is a situation in which net exports are positive \--- exports are more than imports.
+
+**Balanced trade** refers to when net exports are zero \--- exports are equal to imports.
+
+Factors that affect net exports:
+* The tastes of consumers for domestic and foreign goods.
+* The prices of goods at home and abroad.
+* The exchange rates at which people can use domestic currency to buy foreign currency.
+* The incomes of consumers at home and abroad.
+* The costs of transporting goods from country to country.
+* The policies of the government toward international trade.
+
+The **balance of payments** measures all international transactions recorded at time of change of ownership or when service performed.
+
+The **current account** records transactions relating to:
+* Merchandise trade
+* Services trade
+* International investment income
+* Current transfers
+
+The current account combines an imbalance between:
+* A country's exports and its imports.
+* A country's receipts of income and transfers from abroad.
+* Its payments of income and transfers to abroad (net foreign income)
+
+The **capital account** records:
+* Changes in financial liabilities and assets
+* Sales and purchases of fixed assets
+
+**International investment income** includes:
+* Dividends and interest from direct and portfolio investments, loans and trade credits
+* Direct investors' share of retained earnings
+
+The benefits of **foreign direct investment** are:
+* Provides an additional source of capital for economic development
+* Access to markets through integration in international production networks
+* Access to technology
+
+**Net capital outflow** (NCO) refers to the purchase of foreign assets by domestic residents minus the purchase of domestic assets by foreigners. Net capital outflow per year equals total capital outflow minus total capital inflow during a year.
+
+Variables that influence net capital outflow:
+* The real interest rate being paid on foreign assets.
+* The real interest rate being paid on domestic assets.
+* The perceived economic and political risks of holding assets abroad.
+* The government policies that affect foreign ownership of domestic assets.
+
+$\text{National Saving}=\text{Domestic Investment}+\text{Net Capital Outflow}$
+
+
+$\text{Current Account Balance}=\text{Net capital outflow}$
+
+An **exchange rate** is the price at which one currency exchanges for another.
+
+The **trade weighted index** (TWI) is a weighted average of currencies of major trading partners.
+
+A **freely floating exchange rate** adjusts continuously to maintain equilibrium as demand and supply changes.
+
+A **clean float** means there is no government or central bank intervention.
+
+A **fixed exchange rate** is set at a pre-announced level or within a narrow band.
+
+A **depreciation** or **devaluation** is a fall in the price of a free exchange rate or fixed exchange rate, respectively.
+
+A **appreciation** or **revaluation** is a rise in the price of a free exchange rate or fixed exchange rate, respectively.
+
+The **nominal exchange rate** is the rate at which a person can trade the currency of one country for the currency of another. It is expressed in two ways; in units of foreign currency per one NZD or in units of NZD per one unit of the foreign currency.
+
+The **real exchange rate** is the rate at which a country trades its goods and services with another country. It can be calculated as $\text{Real exchange rate}=\frac{\text{Nominal exchange rate}\times\text{Domestic price}}{\text{Foreign price}}$.
+
+The **purchasing-power parity** is a theory that it some cost exactly the same to buy a foreign good with exchanging to the foreign currency as would buying it domestically.
+
+The **law of one price** is that a good must sell for the same price in all locations.
+
+**Arbitrage** is the process of taking advantage of differences in the prices in different markets.
+
+Effects on the exchange rate and the interest rate are:
+* Government budget deficits
+* Trade policies
+* Political and economic stability
+
+A **trade policy** is a government policy that directly influences the quantity of goods and services that a country imports or exports. This includes:
+* A **tariff** is a tax on an imported good.
+* An **import quota** is a limit on the quantity of a good produced abroad and sold domestically.
+* An **export subsidy** is a cash payment to exporters per unit of exports.
+
+**Capital flight** is a large and sudden reduction in the demand for assets in a country.
