@@ -467,8 +467,8 @@ The **aggregate demand curve** shows the quantity of goods and services that hou
 
 The **aggregate supply curve** shows the quantity of goods and services that firms choose to produce and sell at each price level.
 
-The **wealth effect** or **Pigou effect** occurs when the price level decreases, making consumers feel more wealthy and willing to spend more.
+The **wealth effect** or the **Pigou effect** occurs when the price level decreases, making consumers feel more wealthy and willing to spend more.
 
-The **interest rate effect** or **Keynes effect** occurs when a lower price level reduces the interest rate, which encourages greater spending on investment goods.
+The **interest rate effect** or the **Keynes effect** occurs when a lower price level reduces the interest rate, which encourages greater spending on investment goods.
 
-The **exchange rate effect** or **Mundell-Fleming effect** occurs when a lower price level reduces the interest rate, which results in a depreciation in the real exchange rate.
+The **exchange rate effect** or the **Mundell-Fleming effect** occurs when a lower price level reduces the interest rate, which results in a depreciation in the real exchange rate.
