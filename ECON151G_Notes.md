@@ -449,3 +449,26 @@ A **trade policy** is a government policy that directly influences the quantity 
 * An **export subsidy** is a cash payment to exporters per unit of exports.
 
 **Capital flight** is a large and sudden reduction in the demand for assets in a country.
+
+
+## Aggregate Demand and Aggregate Supply
+
+A **recession** is a period of declining real incomes and rising unemployment.
+
+A **depression** is a severe recession.
+
+Economic fluctuations are:
+* Irregular and unpredictable
+* Most macroeconomic variables fluctuate together
+* As output falls, unemployment rises
+* Net exports and output tend to move in the opposite direction
+
+The **aggregate demand curve** shows the quantity of goods and services that households, firms and the government want to buy at each price level.
+
+The **aggregate supply curve** shows the quantity of goods and services that firms choose to produce and sell at each price level.
+
+The **wealth effect** or **Pigou effect** occurs when the price level decreases, making consumers feel more wealthy and willing to spend more.
+
+The **interest rate effect** or **Keynes effect** occurs when a lower price level reduces the interest rate, which encourages greater spending on investment goods.
+
+The **exchange rate effect** or **Mundell-Fleming effect** occurs when a lower price level reduces the interest rate, which results in a depreciation in the real exchange rate.
